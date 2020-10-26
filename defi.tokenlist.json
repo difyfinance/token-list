@@ -1,0 +1,215 @@
+{
+    "name": "DeFi Tokens",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/7143.png",
+    "keywords": [
+        "defi"
+    ],
+    "tokens": [
+        {
+            "name": "Aave",
+            "chainId": 1,
+            "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "decimals": 18,
+            "symbol": "AAVE",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Balancer",
+            "chainId": 1,
+            "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+            "decimals": 18,
+            "symbol": "BAL",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "bZx Protocol",
+            "chainId": 1,
+            "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+            "decimals": 18,
+            "symbol": "BZRX",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5810.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Compound",
+            "chainId": 1,
+            "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "decimals": 18,
+            "symbol": "COMP",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Cream Finance",
+            "chainId": 1,
+            "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+            "decimals": 18,
+            "symbol": "CREAM",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6193.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Curve DAO Token",
+            "chainId": 1,
+            "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+            "decimals": 18,
+            "symbol": "CRV",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Dai",
+            "chainId": 1,
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "name": "Kyber Network",
+            "chainId": 1,
+            "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+            "decimals": 18,
+            "symbol": "KNC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1982.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Maker",
+            "chainId": 1,
+            "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+            "decimals": 18,
+            "symbol": "MKR",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Synthetix Network Token",
+            "chainId": 1,
+            "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+            "decimals": 18,
+            "symbol": "SNX",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "SushiSwap",
+            "chainId": 1,
+            "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+            "decimals": 18,
+            "symbol": "SUSHI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "Uniswap",
+            "chainId": 1,
+            "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "decimals": 18,
+            "symbol": "UNI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "USD Coin",
+            "chainId": 1,
+            "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "decimals": 6,
+            "symbol": "USDC",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "name": "Tether",
+            "chainId": 1,
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "decimals": 6,
+            "symbol": "USDT",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+            "tags": [
+                "stablecoin",
+                "tether"
+            ]
+        },
+        {
+            "name": "YAM v1",
+            "chainId": 1,
+            "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+            "decimals": 18,
+            "symbol": "YAM",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6539.png",
+            "tags": [
+                "defi",
+                "yam"
+            ]
+        },
+        {
+            "name": "yearn.finance",
+            "chainId": 1,
+            "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+            "decimals": 18,
+            "symbol": "YFI",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "DFI.Money",
+            "chainId": 1,
+            "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+            "decimals": 18,
+            "symbol": "YFII",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5957.png",
+            "tags": [
+                "defi"
+            ]
+        },
+        {
+            "name": "DiFy.Finance",
+            "chainId": 1,
+            "address": "0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45",
+            "decimals": 18,
+            "symbol": "YFIII",
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7143.png",
+            "tags": [
+                "defi"
+            ]
+        }
+    ],
+    "timestamp": "2020-10-26T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
